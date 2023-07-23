@@ -1,0 +1,25 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(239, 232, 232);
+}
+
+.main{
+    width: 100%;
+    background-image: url(skull.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.main{
+    padding: 300px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+    text-align: center;
+}
+
+
